@@ -1363,8 +1363,10 @@ nav {
 
 .accordion-button:not(.collapsed)::after {
   background: #86ff3b;
-  -webkit-box-shadow: 0px 0px  0px 4px #333, 0px 0px 0px 6px #86ff3b;
-          box-shadow: 0px 0px  0px 4px #333, 0px 0px 0px 6px #86ff3b;
+  -webkit-box-shadow: 0px 0px  0px 4px #333,
+ 0px 0px 0px 6px #86ff3b;
+          box-shadow: 0px 0px  0px 4px #333,
+ 0px 0px 0px 6px #86ff3b;
 }
 
 .accordion-button:focus {
@@ -2315,12 +2317,12 @@ ul, li {
     width: 390px;
   }
   .fa-chevron-right {
-    -webkit-transform: translateX(11.3rem);
-            transform: translateX(11.3rem);
+    -webkit-transform: translateX(10.8rem);
+            transform: translateX(10.8rem);
   }
   .fa-chevron-left {
-    -webkit-transform: translateX(-11.3rem);
-            transform: translateX(-11.3rem);
+    -webkit-transform: translateX(-10.8rem);
+            transform: translateX(-10.8rem);
   }
   .content__section {
     background: none;
@@ -2345,22 +2347,22 @@ ul, li {
     text-shadow: 0px 6px 5px #0074e7;
   }
   .owl-carousel {
-    width: 300px;
+    width: 285px;
   }
   .fa-chevron-right {
-    -webkit-transform: translateX(8rem);
-            transform: translateX(8rem);
+    -webkit-transform: translateX(7.5rem);
+            transform: translateX(7.5rem);
   }
   .fa-chevron-left {
-    -webkit-transform: translateX(-8rem);
-            transform: translateX(-8rem);
+    -webkit-transform: translateX(-7.5rem);
+            transform: translateX(-7.5rem);
   }
   .content__btn-download {
     display: none;
   }
   .content__section {
     background: none;
-    padding: 0px 17px;
+    padding: 0px 40px;
   }
   .title {
     font-size: 28px;
