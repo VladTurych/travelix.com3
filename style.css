@@ -2362,7 +2362,7 @@ ul, li {
   }
   .content__section {
     background: none;
-    padding: 0px 40px;
+    padding: 0px 35px;
   }
   .title {
     font-size: 28px;
@@ -2371,7 +2371,7 @@ ul, li {
     max-width: 300px !important;
   }
   .p {
-    top: 44.5%;
+    top: 44%;
   }
 }
 
